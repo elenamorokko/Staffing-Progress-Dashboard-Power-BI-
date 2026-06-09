@@ -62,10 +62,58 @@ Create a funnel chart representing the recruitment pipeline:
 The funnel should allow analysis of conversion rates between each stage of the recruitment process.
 
 ## Expected Outcome
-
 The final dashboard should provide a clear view of:
 
 * Progress toward the hiring goal.
 * Recruitment efficiency at each stage.
 * Candidate conversion throughout the hiring funnel.
 * Overall staffing status for the new stores.
+
+
+### Work Completed
+
+* Cleaned and validated the recruitment dataset in Microsoft Excel ensuring data accuracy and consistency across all hiring stages.
+* Performed exploratory data analysis to assess recruitment performance and identify key trends within the hiring process.
+* Calculated hiring metrics, including funnel conversion rates, overall recruitment efficiency and target achievement percentages.
+* Analyzed candidate progression through each stage of the recruitment pipeline.
+* Identified recruitment bottlenecks and areas with the highest candidate drop-off rates.
+* Designed and developed an interactive dashboard in Power BI to monitor staffing progress and recruitment performance.
+* Created a **Gauge Chart** to track progress against the hiring target and visualize overall target achievement.
+* Built a **Conversion Funnel** to visualize candidate flow and conversion rates across all recruitment stages.
+* Generated actionable business insights and recommendations based on funnel performance and hiring outcomes.
+* Presented findings through clear data visualizations to support recruitment planning and decision-making.
+
+### Key Results
+
+* Evaluated progress toward the hiring target of 150 employees.
+* Measured an end-to-end conversion rate of 9% from submitted resumes to employees who started work.
+* Identified significant candidate attrition during recruiter and hiring manager interview stages.
+* Determined that only 101 of 150 planned hires were completed resulting in a 33% hiring gap.
+
+## Key Findings and Recommendations
+
+The analysis revealed a low end-to-end conversion rate with only 9% of submitted resumes resulting in candidates successfully starting work. Additionally, the hiring target was not achieved reaching 101 hires against a goal of 150 employees. The largest candidate drop-off occurs during the recruiter and hiring manager interview stages indicating potential inefficiencies in the selection process.
+
+### Recommendations
+
+**1. Improve Candidate Screening Quality**
+
+* Refine job requirements and vacancy descriptions to attract more qualified applicants.
+* Introduce clearer screening criteria to reduce the number of irrelevant resumes entering the recruitment pipeline.
+
+**2. Standardize the Interview Process**
+
+* Implement structured interview guidelines and evaluation criteria across all interview stages.
+* Reduce subjectivity in candidate assessments by using consistent scoring frameworks.
+* Provide interview training for recruiters and hiring managers to improve evaluation quality and decision-making consistency.
+
+**3. Accelerate the Recruitment Process**
+
+* Reduce the time between recruitment stages to minimize candidate drop-off and the risk of losing qualified applicants to competing employers.
+
+**4. Expand Candidate Sourcing Channels**
+
+* Diversify recruitment channels to increase the volume and quality of applicants.
+* Strengthen employee referral programs and explore additional job boards, social media platforms and recruitment partnerships.
+
+By improving screening accuracy, increasing interview consistency, shortening the hiring cycle and expanding sourcing efforts the organization can improve funnel conversion rates and increase the likelihood of meeting future staffing targets.
