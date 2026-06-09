@@ -90,6 +90,9 @@ The final dashboard should provide a clear view of:
 * Identified significant candidate attrition during recruiter and hiring manager interview stages.
 * Determined that only 101 of 150 planned hires were completed resulting in a 33% hiring gap.
 
+## Dashboard Screenshot
+<img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/bfce08b2-b43d-4013-b377-115e413aa333" />
+
 ## Key Findings and Recommendations
 
 The analysis revealed a low end-to-end conversion rate with only 9% of submitted resumes resulting in candidates successfully starting work. Additionally, the hiring target was not achieved reaching 101 hires against a goal of 150 employees. The largest candidate drop-off occurs during the recruiter and hiring manager interview stages indicating potential inefficiencies in the selection process.
