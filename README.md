@@ -37,6 +37,7 @@ The recruitment workflow follows these stages:
 5. **Employee Start Date**
 
    * The vacancy is considered closed only after the candidate accepts the offer and officially starts working.
+<img width="627" height="556" alt="image" src="https://github.com/user-attachments/assets/7f2410cb-7bfe-458b-b8fa-8e4f00f0d402" />
 
 ## Dashboard Requirements
 
